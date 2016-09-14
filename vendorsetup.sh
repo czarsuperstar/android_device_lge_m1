@@ -1,0 +1,1 @@
+add_lunch_combo omni_m1-userdebug
