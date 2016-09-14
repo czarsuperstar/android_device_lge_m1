@@ -37,6 +37,6 @@ PRODUCT_MODEL := K7
 PRODUCT_MANUFACTURER := lge
 
 # Kernel inline build
-#TARGET_KERNEL_CONFIG := a32e_defconfig
-#TARGET_VARIANT_CONFIG := a32e_defconfig
-#TARGET_SELINUX_CONFIG := a32e_defconfig
+#TARGET_KERNEL_CONFIG := m1_mpcs_us_defconfig
+#TARGET_VARIANT_CONFIG := m1_mpcs_us_defconfig
+#TARGET_SELINUX_CONFIG := m1_mpcs_us_defconfig
